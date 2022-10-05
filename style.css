@@ -1,0 +1,42 @@
+body {
+  background-color: orange;
+}
+
+h1 {
+color: blue;
+font-family:sans-serif;
+background-color: white;
+border: 10px solid blue;
+margin-left: 200px;
+margin-right: 200px;
+padding: 20px;
+padding-left: 50px;
+}
+
+p {
+  color: purple;
+  background-color: white;
+  margin-right: 400px;
+}
+
+#header {
+  color: blue;
+  font-family:sans-serif;
+  background-color: white;
+  border: 5px solid blue;
+  margin-right: 510px;
+  padding-left: 7px;
+}
+
+img {
+  border: 2px solid white;
+  width: 75%;
+  height:75%;
+  margin-left: 75px
+}
+
+.top{
+  background-color: pink;
+  padding: 10px;
+  float: left;
+}
